@@ -10,6 +10,8 @@
     <br><code>import tensorflow as tf</code>
     <br><code>import tensorflow.compat.v2.feature_column as fc</code>
     <br><code>import tensorflow_probability as tfp</code>
+    <br><code>import graphviz</code>
+    <br><code>MinMaxScaler()</code>
     <br><br>Notebooks usually update faster but in case you need to install something:<br>
     <br><code>%tensorflow_version 2.x</code>
     <br><code>!pip install -q sklearn</code>
